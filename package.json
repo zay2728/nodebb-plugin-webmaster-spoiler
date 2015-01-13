@@ -20,7 +20,7 @@
     "name": "zay2728",
     "email": "mzainudin27@hotmail.com"
   },
-  "license": "BSD-2-Clause",
+  "license": "GNU-GL-2",
   "bugs": {
     "url": "https://github.com/zay2728/nodebb-plugin-spoilers/issues"
   },
@@ -29,9 +29,9 @@
   },
   "_id": "nodebb-plugin-spoilers@0.1.1",
   "_from": "nodebb-plugin-spoilers@0.1.1",
-  "homepage": "https://github.com/zay2728/nodebb-plugin-spoilers",
+  "homepage": "https://github.com/zay2728/nodebb-plugin-webmaster-spoilers",
   "dist": {
-    "shasum": "e3216b04772ed98e2193388867cb18016b584b67",
+    "shasum": "6e6cb3a08528f5b3a5467323a80e6c9687312843",
     "tarball": "http://registry.npmjs.org/nodebb-plugin-webmaster-spoiler/-/nodebb-plugin-spoilers-0.1.1.tgz"
   },
   "_npmVersion": "1.4.3",
@@ -46,6 +46,6 @@
     }
   ],
   "directories": {},
-  "_shasum": "e3216b04772ed98e2193388867cb18016b584b67",
+  "_shasum": "6e6cb3a08528f5b3a5467323a80e6c9687312843",
   "_resolved": "https://registry.npmjs.org/nodebb-plugin-spoilers/-/nodebb-plugin-spoilers-0.1.1.tgz"
 }
