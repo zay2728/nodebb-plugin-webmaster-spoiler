@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-webmaster-spoilers",
+	"id": "nodebb-plugin-webmaster-spoilers",
 	"name": "Spoilers for NodeBB",
 	"description": "Membolehkan kamu membuat spoiler di nodebb v0.6",
 	"url": "https://github.com/zay2728/nodebb-plugin-webmaster-spoiler",

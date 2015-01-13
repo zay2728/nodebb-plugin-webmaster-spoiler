@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-webmaster-spoilers",
+  "name": "nodebb-plugin-webmaster-spoilers",
   "version": "0.1.1",
   "description": "Spoilers for NodeBB",
   "main": "library.js",
