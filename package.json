@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-webmaster-spoilers",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Spoilers for NodeBB",
   "main": "library.js",
   "scripts": {
@@ -32,7 +32,7 @@
   "homepage": "https://github.com/zay2728/nodebb-plugin-webmaster-spoiler",
   "dist": {
     "shasum": "6e6cb3a08528f5b3a5467323a80e6c9687312843",
-    "tarball": "http://registry.npmjs.org/nodebb-plugin-webmaster-spoiler/-/nodebb-plugin-webmaster-spoiler-0.1.1.tgz"
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-webmaster-spoiler/-/nodebb-plugin-webmaster-spoiler-0.2.0.tgz"
   },
   "_npmVersion": "1.4.3",
   "_npmUser": {
@@ -47,5 +47,5 @@
   ],
   "directories": {},
   "_shasum": "6e6cb3a08528f5b3a5467323a80e6c9687312843",
-  "_resolved": "https://registry.npmjs.org/nodebb-plugin-spoilers/-/nodebb-plugin-webmaster-spoiler-0.1.1.tgz"
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-spoilers/-/nodebb-plugin-webmaster-spoiler-0.2.0.tgz"
 }
