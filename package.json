@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zay2728/nodebb-plugin-spoilers"
+    "url": "https://github.com/zay2728/nodebb-plugin-webmaster-spoiler"
   },
   "keywords": [
     "nodebb",
@@ -22,17 +22,17 @@
   },
   "license": "GNU-GL-2",
   "bugs": {
-    "url": "https://github.com/zay2728/nodebb-plugin-spoilers/issues"
+    "url": "https://github.com/zay2728/nodebb-plugin-webmaster-spoiler/issues"
   },
   "nbbpm": {
     "compatibility": "^0.6.0"
   },
-  "_id": "nodebb-plugin-spoilers@0.1.1",
-  "_from": "nodebb-plugin-spoilers@0.1.1",
-  "homepage": "https://github.com/zay2728/nodebb-plugin-webmaster-spoilers",
+  "_id": "nodebb-plugin-webmaster-spoiler@0.1.1",
+  "_from": "nodebb-plugin-webmaster-spoiler@0.1.1",
+  "homepage": "https://github.com/zay2728/nodebb-plugin-webmaster-spoiler",
   "dist": {
     "shasum": "6e6cb3a08528f5b3a5467323a80e6c9687312843",
-    "tarball": "http://registry.npmjs.org/nodebb-plugin-webmaster-spoiler/-/nodebb-plugin-spoilers-0.1.1.tgz"
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-webmaster-spoiler/-/nodebb-plugin-webmaster-spoiler-0.1.1.tgz"
   },
   "_npmVersion": "1.4.3",
   "_npmUser": {
@@ -47,5 +47,5 @@
   ],
   "directories": {},
   "_shasum": "6e6cb3a08528f5b3a5467323a80e6c9687312843",
-  "_resolved": "https://registry.npmjs.org/nodebb-plugin-spoilers/-/nodebb-plugin-spoilers-0.1.1.tgz"
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-spoilers/-/nodebb-plugin-webmaster-spoiler-0.1.1.tgz"
 }
