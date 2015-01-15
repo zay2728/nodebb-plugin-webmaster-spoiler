@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-webmaster-spoilers",
   "version": "0.2.0",
-  "description": "Spoilers for NodeBB",
+  "description": "Spoilers for NodeBB v0.6.x",
   "main": "library.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
