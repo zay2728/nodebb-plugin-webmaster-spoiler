@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-webmaster-spoilers",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Spoilers for NodeBB v0.6.x",
   "main": "library.js",
   "scripts": {
